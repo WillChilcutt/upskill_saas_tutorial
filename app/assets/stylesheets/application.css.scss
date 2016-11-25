@@ -52,7 +52,7 @@ h1, h2, h3 {
 }
 
 .navbar-default .navbar-brand,
-.navbar-default .navbar-nav > li > a {
+.navbar-default .navbar-nav > li > a{
     color:white;
     &:hover{
         color:white;
@@ -66,8 +66,7 @@ h1, h2, h3 {
 
 .navbar-default .navbar-toggle{
     border: 2px solid white;
-    &:hover,&:focus
-    {
+    &:hover,&:focus{
         background-color:#F9D423;
     }
 }
